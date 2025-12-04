@@ -1,26 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/tzachi/Documents/GitHub/First_Game_Tzachi-Chaim/ChessPlus/ChessPlus.csproj": {}
+    "C:\\Users\\Public\\GameDev\\ProjectChess\\First_Game_Tzachi-Chaim\\ChessPlus\\ChessPlus.csproj": {}
   },
   "projects": {
-    "/Users/tzachi/Documents/GitHub/First_Game_Tzachi-Chaim/ChessPlus/ChessPlus.csproj": {
+    "C:\\Users\\Public\\GameDev\\ProjectChess\\First_Game_Tzachi-Chaim\\ChessPlus\\ChessPlus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/tzachi/Documents/GitHub/First_Game_Tzachi-Chaim/ChessPlus/ChessPlus.csproj",
+        "projectUniqueName": "C:\\Users\\Public\\GameDev\\ProjectChess\\First_Game_Tzachi-Chaim\\ChessPlus\\ChessPlus.csproj",
         "projectName": "ChessPlus",
-        "projectPath": "/Users/tzachi/Documents/GitHub/First_Game_Tzachi-Chaim/ChessPlus/ChessPlus.csproj",
-        "packagesPath": "/Users/tzachi/.nuget/packages/",
-        "outputPath": "/Users/tzachi/Documents/GitHub/First_Game_Tzachi-Chaim/ChessPlus/obj/",
+        "projectPath": "C:\\Users\\Public\\GameDev\\ProjectChess\\First_Game_Tzachi-Chaim\\ChessPlus\\ChessPlus.csproj",
+        "packagesPath": "C:\\Users\\חיים נחמני\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Public\\GameDev\\ProjectChess\\First_Game_Tzachi-Chaim\\ChessPlus\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/tzachi/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\חיים נחמני\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "/usr/local/share/dotnet/library-packs": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -71,11 +76,15 @@
               "version": "[9.0.11, 9.0.11]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.osx-x64",
+              "name": "Microsoft.NETCore.App.Host.win-x64",
               "version": "[9.0.11, 9.0.11]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
+              "version": "[9.0.11, 9.0.11]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
               "version": "[9.0.11, 9.0.11]"
             }
           ],
@@ -84,7 +93,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
