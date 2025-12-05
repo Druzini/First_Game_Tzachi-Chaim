@@ -26,7 +26,7 @@ public class Game1 : Game
     protected override void LoadContent()
     {
         _spriteBatch = new SpriteBatch(GraphicsDevice);
-
+        
         // TODO: use this.Content to load your game content here
     }
 
@@ -48,4 +48,5 @@ public class Game1 : Game
 
         base.Draw(gameTime);
     }
+    
 }
